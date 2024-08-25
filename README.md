@@ -7,7 +7,6 @@ I'm a passionate **Data Analyst** and **Business Analyst** with a strong backgro
 ## 🔍 About Me
 
 - 🎓 **Background**: I hold a Bachelor In Marketing and Business Administration in Marketing from Unviersiti Utara Malaysia.
-- 💼 **Current Role**: [Your Current Job Title] at [Your Company].
 - 💡 **Expertise**: Data analysis, business intelligence, data visualization, statistical analysis, and more.
 - 🚀 **Skills**: SQL, Python, Microsoft Office - Excel, Word, PowerPoint, Tableau, Power BI.
 - 🌍 **Languages**: Fluent in Bahasa, Melayu and English.
@@ -21,20 +20,10 @@ I'm a passionate **Data Analyst** and **Business Analyst** with a strong backgro
 
 ## 📊 My Projects
 
-### 1. [Project Name]
+### 1. Google Data Analytics
 - **Description**: Brief description of the project, including the goal and key outcomes.
-- **Tech Stack**: Python, Pandas, Matplotlib, etc.
-- **Repository**: [Link to Project Repository]
-
-### 2. [Project Name]
-- **Description**: Brief description of the project, including the goal and key outcomes.
-- **Tech Stack**: SQL, Tableau, etc.
-- **Repository**: [Link to Project Repository]
-
-### 3. [Project Name]
-- **Description**: Brief description of the project, including the goal and key outcomes.
-- **Tech Stack**: R, Shiny, etc.
-- **Repository**: [Link to Project Repository]
+- **Tech Stack**: SQL, R, Spreadsheet, PowerBI, Tableau.
+- **Repository**: https://github.com/playingwithdata-and/Google-Data-Analytics
 
 ## 📈 My Stats ##
 
