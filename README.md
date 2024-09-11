@@ -25,6 +25,11 @@ I'm a passionate **Data Analyst** and **Business Analyst** with a strong backgro
 - **Tech Stack**: SQL, R, Spreadsheet, PowerBI, Tableau.
 - **Repository**: https://github.com/playingwithdata-and/Google-Data-Analytics
 
+### 2. Netflix Data Analysis Using SQL
+- **Description**: The Netflix dataset is analyzed to address several business questions and objective
+- **Tech Stack**: SQL.
+- **Repository**: https://github.com/playingwithdata-and/Netflix_sql_project
+
 ## 📈 My Stats ##
 
 ### ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=playingwithdata-and&show_icons=true&theme=radical) ##
