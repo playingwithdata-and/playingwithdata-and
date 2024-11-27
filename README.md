@@ -27,7 +27,7 @@ I'm a passionate **Data Analyst** and **Business Analyst** with a strong backgro
 
 ### 2. Netflix Data Analysis Using SQL
 - **Description**: The Netflix dataset is analyzed to address several business questions and objective
-- **Tech Stack**: SQL.
+- **Tech Stack**: SQL, PowerBI
 - **Repository**: https://github.com/playingwithdata-and/Netflix_sql_project
 
 ## 📈 My Stats ##
